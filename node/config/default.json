@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "65674dc110fdc3bfd6c80fe8a1913e0b",
+    "pageAccessToken": "EAAYyLaeHmIQBAOjj4XaNGgdlPhGAtNaSsMUJY1fH6ZBCiLJqwceiAd6d7YZBioHwxOUcBIwaC7tEhIG0aNiktQM4vVckOCegM4ZC8PSYQkLi5o1FY0lVyIMa3qw2JrDsOj5yUREidBTDSirLfycxyXeuQ3aHZCaotctrtxRZCTKDFuyUJxZCbQ",
+    "validationToken": "secret",
+    "serverURL": "https://jetchat-test.herokuapp.com/"
 }
